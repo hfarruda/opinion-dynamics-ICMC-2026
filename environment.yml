@@ -1,0 +1,24 @@
+name: icmc
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - matplotlib>=3.8,<4
+  - networkx>=3.2,<4
+  - python-igraph>=0.11,<2
+  - scipy>=1.11,<2
+  - pandas>=2.1,<4
+  - jupyterlab>=4,<5
+  - ipykernel>=6,<8
+  - nbformat>=5,<6
+  - nbclient>=0.10,<1
+  - pip
+  - setuptools
+  - wheel
+  - git
+  - pip:
+      - "doces @ git+https://github.com/hfarruda/doces.git@b81ba180abc875eff5e99057f3525e3c29c1e401"
