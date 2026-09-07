@@ -2,6 +2,7 @@
 .codex/
 .codex-log/
 .agents/
+.vscode/
 AGENTS.md
 AGENTS.override.md
 
