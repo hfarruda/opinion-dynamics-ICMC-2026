@@ -31,3 +31,6 @@ env/
 .TemporaryItems/
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+# Others
+figures/
