@@ -20,5 +20,4 @@ dependencies:
   - setuptools
   - wheel
   - git
-  - pip:
-      - "doces @ git+https://github.com/hfarruda/doces.git@b81ba180abc875eff5e99057f3525e3c29c1e401"
+
