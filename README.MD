@@ -39,4 +39,4 @@ conda env update --name icmc --file environment.yml --prune
 
 ## Acknowledgment
 
-These examples were developed with assistance from OpenAI Codex and reviewed by the author.
+These examples were developed by the author, with partial assistance from OpenAI Codex. All code was reviewed and validated by the author.
