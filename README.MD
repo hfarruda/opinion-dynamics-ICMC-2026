@@ -9,7 +9,6 @@ This repository contains didactic examples of different models of opinion dynami
 - `1_degroot.ipynb` -- DeGroot opinion averaging dynamics.
 - `2_voter.ipynb` -- Voter-model opinion copying dynamics.
 - `3_deffuant.ipynb` -- Deffuant bounded-confidence pairwise dynamics.
-- `4_hegselmann_krause.ipynb` -- Hegselmann-Krause bounded-confidence dynamics on networks.
 - `5_holme_newman.ipynb` -- Holme-Newman coevolution of opinions and network links.
 
 ## Conda environment
